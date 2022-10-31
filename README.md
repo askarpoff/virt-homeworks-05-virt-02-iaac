@@ -21,3 +21,9 @@
 
 *Приложить вывод команд установленных версий каждой из программ, оформленный в markdown.*
 
+### Ответ:
+VirtualBox
+<code>
+c:\Program Files\Oracle\VirtualBox>vboxmanage --version
+6.1.36r152435
+</code>
