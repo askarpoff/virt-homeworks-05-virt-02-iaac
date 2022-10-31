@@ -22,8 +22,13 @@
 *Приложить вывод команд установленных версий каждой из программ, оформленный в markdown.*
 
 ### Ответ:
-VirtualBox
-<code>
+VirtualBox<br>
+```
 c:\Program Files\Oracle\VirtualBox>vboxmanage --version
 6.1.36r152435
-</code>
+```
+Vagrant
+```
+d:\HashiCorp\Vagrant\bin>vagrant --version
+Vagrant 2.2.20.dev
+```
